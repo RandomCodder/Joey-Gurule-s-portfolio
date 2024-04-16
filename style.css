@@ -108,15 +108,12 @@
 }
 
 .project-img {
-    width: 300px;
+    width: 400px;
     height: 195px;
     transition: transform 0.3s ease-in-out; /* Adding a smooth transition effect */
     cursor: pointer; /* Changing cursor to a hand */
 }
 
-.project-img:hover {
-    transform: scale(1.03); /* Increasing size by 3% */
-}
 
 .project-title{
     margin-bottom: 0;
